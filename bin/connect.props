@@ -1,0 +1,3 @@
+cadena="jdbc:mysql://localhost:3306/colegio"
+usuario="vradmin"
+contrasenha="vradmin"
